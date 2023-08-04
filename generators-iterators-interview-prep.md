@@ -1,4 +1,3 @@
-```markdown
 # Python Generators and Iterators Interview Preparation
 
 This README provides an in-depth exploration of Python generators and iterators, essential concepts for understanding iterable objects, memory-efficient data processing, and handling large datasets. Each question is accompanied by a concise answer and practical examples to aid your interview preparation.
